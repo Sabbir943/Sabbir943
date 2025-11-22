@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md sabbir Ahmad</h1>
 <h3 align="center">A passionate CS student from Bangladesh</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl2N29wYXVmdHU4dmt5azlqN29lcjBuYjlyMTBhbmU0d3Bza2tvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Description of image" >
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir943&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir943" /> </p>
