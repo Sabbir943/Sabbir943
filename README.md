@@ -26,92 +26,23 @@
 
 ## 🛠️ Languages & Tools
 
-I work with a variety of technologies. Below they're organized into categories for a clearer overview!
-
-<!-- Bounce animation CSS for GitHub (works via style tag in SVG/HTML on supported renderers) -->
-<!-- Note: GitHub strips <style> tags; bounce effect is achieved via animated skill badges below -->
-
 <!-- TOOLS_START -->
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" title="C"/>
-  </a>&nbsp;
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" title="C++"/>
-  </a>&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" title="Java"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" title="JavaScript"/>
-  </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" title="Python"/>
-  </a>
-</p>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" title="C"/></a><a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" title="C++"/></a><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" title="Python"/></a></p>
 
 ### 🌐 Frontend Development
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" title="HTML5"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" title="CSS3"/>
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" title="React"/>
-  </a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" title="Next.js"/>
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" title="Tailwind CSS"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" title="Figma"/>
-  </a>
-</p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" title="HTML5"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" title="CSS3"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" title="React"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" title="Next.js"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" title="Tailwind CSS"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" title="Figma"/></a></p>
 
 ### ⚙️ Backend & Databases
 
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" title="Node.js"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" title="Express.js"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" title="MongoDB"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" title="MySQL"/>
-  </a>
-</p>
+<p align="left"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" title="Node.js"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" title="Express.js"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" title="MySQL"/></a></p>
 
 ### 🛠️ Development Tools & Platforms
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" title="Git"/>
-  </a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" title="GitHub"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" title="Linux"/>
-  </a>&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" title="Arduino"/>
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" title="VS Code"/>
-  </a>
-</p>
+<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" title="Git"/></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" title="GitHub"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" title="Linux"/></a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" title="Arduino"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" title="VS Code"/></a></p>
 
 <!-- TOOLS_END -->
 
@@ -120,8 +51,6 @@ I work with a variety of technologies. Below they're organized into categories f
 ---
 
 ## 📌 Pinned Projects
-
-I love building and sharing projects. Here are some of my recent works:
 
 | Project Name | Repository | Live Demo | Rating | Tech Stack |
 |--------------|------------|-----------|--------|------------|
