@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir943&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir943" /> </p>
 
-<!-- Animated introduction (optional but nice) -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I'm currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sabbir943](https://github.com/Sabbir943)
 
@@ -20,81 +19,132 @@
 <p align="left">
 <a href="https://linkedin.com/in/sabbir-ahmad943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-ahmad943" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sabbir943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabbir943" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1100" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/sabbir943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sabbir943" height="30" width="40" /></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-I work with a variety of technologies. Below they're organized into categories for a clearer overview – and this section **updates automatically** as I learn new tools!
+I work with a variety of technologies. Below they're organized into categories for a clearer overview!
+
+<!-- Bounce animation CSS for GitHub (works via style tag in SVG/HTML on supported renderers) -->
+<!-- Note: GitHub strips <style> tags; bounce effect is achieved via animated skill badges below -->
 
 <!-- TOOLS_START -->
 
 ### 👨‍💻 Programming Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" title="C"/>
+  </a>&nbsp;
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" title="C++"/>
+  </a>&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" title="Java"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" title="JavaScript"/>
+  </a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" title="Python"/>
+  </a>
 </p>
 
 ### 🌐 Frontend Development
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" title="Tailwind CSS"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title="Figma"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" title="HTML5"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" title="CSS3"/>
+  </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" title="React"/>
+  </a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" title="Next.js"/>
+  </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" title="Tailwind CSS"/>
+  </a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" title="Figma"/>
+  </a>
 </p>
 
 ### ⚙️ Backend & Databases
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" title="Node.js"/>
+  </a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" title="Express.js"/>
+  </a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" title="MongoDB"/>
+  </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" title="MySQL"/>
+  </a>
 </p>
 
 ### 🛠️ Development Tools & Platforms
+
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40" title="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" title="Git"/>
+  </a>&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" title="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" title="Linux"/>
+  </a>&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" title="Arduino"/>
+  </a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" title="VS Code"/>
+  </a>
 </p>
 
 <!-- TOOLS_END -->
 
-> 🔄 *This categorized list is updated weekly via GitHub Actions – whenever I add a new tool to my `tools.json` file, it automatically regenerates this section.*
+> 💡 *Hover over any icon to see the tool name! Icons powered by [skillicons.dev](https://skillicons.dev)*
 
 ---
 
-## 📌 Pinned Projects (Dynamic Table)
+## 📌 Pinned Projects
 
-I love building and sharing projects. Below is an automatically updated list of my recent works.  
-The table refreshes **daily** so you always see my latest activity.
+I love building and sharing projects. Here are some of my recent works:
 
-| Project Name | Repository | Live Demo | My Rating | Tech Stack |
-|--------------|------------|-----------|-----------|------------|
-| **github-issue** | [github/sabbir943/github-issue-tracker](https://github.com/Sabbir943/github-issue-tracker) | [Live](https://sabbir943.github.io/github-issue-tracker/) | ⭐⭐⭐⭐☆ |Javascript(ES6), API |
-| **English-janala** | [github/sabbir943/English-janala](https://github.com/Sabbir943/English-janala) | [Live](https://sabbir943.github.io/English-janala/) | ⭐⭐⭐☆☆ | Daisy UI, javascript, API |
-| **payoo** | [github/sabbir943/payoo](https://github.com/Sabbir943/payoo) | [Live](https://sabbir943.github.io/payoo/) | ⭐⭐⭐⭐☆ | Daisy UI,Javascript-DOM |
-| **tea-house** | [github/sabbir943/tea-house](https://github.com/Sabbir943/tea-house) | [Live](https://sabbir943.github.io/tea-house/) | ⭐⭐⭐☆☆ | HTML, Tailwind CSS |
-| **Tech-wave** | [github/sabbir943/Tech-wave](https://github.com/Sabbir943/Tech-wave) | [Live](https://sabbir943.github.io/Tech-wave/) | ⭐⭐⭐⭐☆ | HTML, Tailwind CSS |
-
-<!-- 
-  🔄 This table is updated automatically by a GitHub Action every day at 00:00 UTC.
--->
+| Project Name | Repository | Live Demo | Rating | Tech Stack |
+|--------------|------------|-----------|--------|------------|
+| **Read-Hive** | [🔗 View Repo](https://github.com/Sabbir943/online-book-borrowing) | [🚀 Live](https://online-book-borrowing.vercel.app/home) | ⭐⭐⭐⭐☆ | Next.js, Tailwind CSS, Hero UI, Better-Auth |
+| **KeenKeeper-App** | [🔗 View Repo](https://github.com/Sabbir943/keenKepper-App) | [🚀 Live](https://my-keenkeeper-app.vercel.app/) | ⭐⭐⭐☆☆ | React Router, Daisy UI |
+| **Digi-tools** | [🔗 View Repo](https://github.com/Sabbir943/Digi-tools) | [🚀 Live](https://digital-ai-tool.netlify.app/) | ⭐⭐⭐⭐☆ | React, Tailwind CSS, DaisyUI |
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true" alt="sabbir943's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir943&theme=tokyonight&hide_border=true" alt="sabbir943's streak stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir943&" alt="sabbir943" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
+<p align="center">⭐ <i>If you like my work, consider giving my repos a star!</i> ⭐</p>
