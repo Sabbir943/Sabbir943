@@ -26,26 +26,42 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Technical Skills
 
+#### 👨‍💻 Programming Languages
 <p align="left">
-  <!-- Programming Languages -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,py" /></a>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </p>
 
+#### 🌐 Frontend Development
 <p align="left">
-  <!-- Frontend -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma" /></a>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </p>
 
+#### ⚙️ Backend & Databases
 <p align="left">
-  <!-- Backend & DB -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </p>
 
+#### 🛠️ Version Control & Tools
 <p align="left">
-  <!-- Tools -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,arduino,vscode" /></a>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </p>
 
 ---
