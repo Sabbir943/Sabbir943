@@ -77,9 +77,9 @@ Beyond web development, I have a deep interest in low-level computer science, ra
 
 | Project Name | Repository | Live Demo | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| **Read-Hive** | [🔗 Repo](https://github.com/Sabbir943/Read-Hive) | [🚀 Live](https://read-hive-demo.com) | Next.js, Tailwind, Better-Auth |
-| **KeenKeeper** | [🔗 Repo](https://github.com/Sabbir943/KeenKeeper-App) | [🚀 Live](https://keenkeeper-demo.com) | React Router, Daisy UI |
-| **Digi-tools** | [🔗 Repo](https://github.com/Sabbir943/Digi-tools) | [🚀 Live](https://digi-tools-demo.com) | React, Tailwind, DaisyUI |
+| **Read-Hive** | [🔗 Repo](https://github.com/Sabbir943/online-book-borrowing) | [🚀 Live](https://online-book-borrowing.vercel.app/home) | Next.js, Tailwind, Better-Auth 
+| **KeenKeeper** | [🔗 Repo](https://github.com/Sabbir943/keenKepper-App) | [🚀 Live](https://my-keenkeeper-app.vercel.app/) | React Router, Daisy UI |
+| **Digi-tools** | [🔗 Repo](https://github.com/Sabbir943/Digi-tools) | [🚀 Live](https://digital-ai-tool.netlify.app/) | React, Tailwind, DaisyUI |
 
 ---
 
