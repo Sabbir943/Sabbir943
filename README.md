@@ -81,13 +81,15 @@ Beyond web development, I have a strong foundation in low-level computer science
 
 ### 📊 GitHub Activity & Stats
 
+### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-ten-rho-13.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-ten-rho-13.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sabbir943&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir943&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
