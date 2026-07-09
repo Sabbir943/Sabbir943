@@ -85,7 +85,7 @@ Beyond web development, I have a strong foundation in low-level computer science
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+ <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
