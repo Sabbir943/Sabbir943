@@ -81,7 +81,7 @@ Beyond web development, I have a strong foundation in low-level computer science
 
 ### 📊 GitHub Activity & Stats
 
-### 📊 GitHub Activity & Stats
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
