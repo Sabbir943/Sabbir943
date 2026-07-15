@@ -81,36 +81,39 @@ Beyond web development, I have a strong foundation in low-level computer science
 
 <div align="center">
 
-  ### 📊 GitHub Activity & Stats
+  ### 📊 GitHub Activity & Stats
 
-  <br />
+  <br />
 
-  <a href="https://github.com/Sabbir943">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-      alt="Sabbir's GitHub Stats" 
-    />
-  </a>
-  <a href="https://github.com/Sabbir943">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" 
-      alt="Top Languages" 
-    />
-  </a>
+  <!-- Main Stats & Top Languages -->
+  <a href="https://github.com/Sabbir943">
+    <img 
+      height="180" 
+      src="https://github-readme-stats-fast.vercel.app/api?username=sabbir943&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="Sabbir's GitHub Stats" 
+    />
+  </a>
+  <a href="https://github.com/Sabbir943">
+    <img 
+      height="180" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+      alt="Top Languages" 
+    />
+  </a>
 
-  <br /><br />
+  <br /><br />
 
-  <a href="https://github.com/Sabbir943">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir943&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak" 
-    />
-  </a>
+  <!-- Streak Stats -->
+  <a href="https://github.com/Sabbir943">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir943&theme=tokyonight&hide_border=true" 
+      alt="GitHub Streak" 
+    />
+  </a>
 
-  <br /><br />
+  <br /><br />
 
-  <sub>⭐ <i>Feel free to explore my repositories and drop a star if you find something interesting!</i></sub>
+  <sub>⭐ <i>Feel free to explore my repositories and drop a star if you find something interesting!</i></sub>
 
 </div>
+this part should be dynamic.it is upadte continue to follow my github acoount.
