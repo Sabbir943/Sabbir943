@@ -73,9 +73,9 @@ Beyond web development, I have a strong foundation in low-level computer science
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Read-Hive** | Online book borrowing and community management platform. | Next.js, Tailwind, Better-Auth | [ Repo](https://github.com/Sabbir943/online-book-borrowing) \| [ Live](https://online-book-borrowing.vercel.app/home) |
-| **KeenKeeper** | Task and personal record management web application. | React, React Router, DaisyUI | [ Repo](https://github.com/Sabbir943/keenKepper-App) \| [ Live](https://my-keenkeeper-app.vercel.app/) |
-| **Digi-Tools** | Digital marketplace showcasing web tools and applications. | React, Tailwind CSS, DaisyUI | [ Repo](https://github.com/Sabbir943/Digi-tools) \| [ Live](https://digital-ai-tool.netlify.app/) |
+| **EduMart** | Online course borrowing that relationship between student and mentor. | Next.js,Typescript, Tailwind, Better-Auth | [ Repo](https://github.com/Sabbir943/EduMart-client) \| [ Live](https://edu-mart-client-ruddy.vercel.app) |
+| **AuraLife** | Valuable insights are often forgotten amid daily life | Next.js, TailwindCSS, Better-Auth, DaisyUI | [ Repo](https://github.com/Sabbir943/digital-life-client) \| [ Live](https://digital-life-client-inky.vercel.app) |
+| **PowNest** | A secure and modern full-stack pet adoption platform built to connect pet owners and shelters with responsible adopters through a smooth and interactive experience. | Next.js, TailwindCSS, Better-Auth, DaisyUI | [ Repo](https://github.com/Sabbir943/pet-adoption-client) \| [ Live](https://pet-adoption-client-sigma.vercel.app) |
 
 ---
 
