@@ -81,25 +81,19 @@ Beyond web development, I have a strong foundation in low-level computer science
 
 <div align="center">
 
-
-
-  <div align="center">
-
- <div align="center">
-
   <h2>📊 GitHub Activity & Stats</h2>
 
   <a href="https://github.com/Sabbir943">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabbir943&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Sabbir's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sabbir943&show_icons=true&theme=tokyonight" alt="Sabbir's GitHub Stats" />
   </a>
   <a href="https://github.com/Sabbir943">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir943&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir943&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/Sabbir943">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir943&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir943&theme=tokyonight" alt="GitHub Streak" />
   </a>
 
   <br /><br />
